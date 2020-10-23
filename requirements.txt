@@ -6,6 +6,7 @@ chardet==3.0.4
 cycler==0.10.0
 cymem==2.0.3
 decorator==4.4.2
+fuzzywuzzy==0.18.0
 idna==2.10
 ipykernel==5.3.4
 ipython==7.18.1
