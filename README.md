@@ -11,6 +11,6 @@ Analyzing gifts received by argentinian politicians
 
         . venv/bin/activate
 
-3. Install python requirements
+3. Install requirements
 
-        pip install requirements.txt
+        pip install -r requirements.txt
